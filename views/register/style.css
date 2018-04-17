@@ -13,6 +13,19 @@
     font-family: 'Oxygen', sans-serif;
 }
 
+.bg {
+    /* The image used */
+    background-image: url("../../images/ocean_background.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .main{
     margin-top: 70px;
 }
